@@ -16,7 +16,7 @@ app.get("/people", (req,res) => {
 
 
 app.get("*", (req,res) => {
-    res.sendFild(path.join(__dirname, "react-grocery", "build", "index.html"));
+    res.sendFile(path.join(__dirname, "react-grocery", "build", "index.html"));
 })
 
 let port = process.env.PORT || 5000;
