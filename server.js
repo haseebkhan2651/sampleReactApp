@@ -3,7 +3,7 @@ const app = express();
 const path = require("path");
 
 //Serving Static Files
-app.use(express.static(path.join(__dirname, "react-grocery", "build")));
+app.use(express.static(path.join(__dirname, "build")));
 
 app.get("/people", (req,res) => {
     let options = {
@@ -16,7 +16,7 @@ app.get("/people", (req,res) => {
 
 
 app.get("*", (req,res) => {
-    res.sendFile(path.join(__dirname, "react-grocery", "build", "index.html"));
+    res.sendFile(path.join(__dirname, "build", "index.html"));
 })
 
 let port = process.env.PORT || 5000;
