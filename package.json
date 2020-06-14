@@ -1,0 +1,16 @@
+{
+  "name": "react-grocery",
+  "version": "1.0.0",
+  "description": "This is a react for inventory management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haseeb Khan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
