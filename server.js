@@ -14,10 +14,10 @@ app.get("/people", (req,res) => {
 })
 
 
-
-app.get("*", (req,res) => {
-    res.sendFile(path.join(__dirname, "build", "index.html"));
-})
+//Serving React main file from Build Folder
+// app.get("*", (req,res) => {
+//     res.sendFile(path.join(__dirname, "build", "index.html"));
+// })
 
 let port = process.env.PORT || 5000;
 app.listen(port, (req,res) => {
