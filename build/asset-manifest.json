@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8744c3ec.chunk.css",
+    "main.js": "/static/js/main.a172cd3c.chunk.js",
+    "main.js.map": "/static/js/main.a172cd3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a2f624dd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a2f624dd.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83019ee8.chunk.js": "/static/js/2.83019ee8.chunk.js",
+    "static/js/2.83019ee8.chunk.js.map": "/static/js/2.83019ee8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a62e01c847e3b58c9cc1b89a9127e1d0.js": "/precache-manifest.a62e01c847e3b58c9cc1b89a9127e1d0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.8744c3ec.chunk.css.map": "/static/css/main.8744c3ec.chunk.css.map",
+    "static/js/2.83019ee8.chunk.js.LICENSE.txt": "/static/js/2.83019ee8.chunk.js.LICENSE.txt",
+    "static/media/1593267551254-screencapture-reactecommercesample-herokuapp-com-shopping-cart-1591959645480.png": "/static/media/1593267551254-screencapture-reactecommercesample-herokuapp-com-shopping-cart-1591959645480.b9e728b6.png",
+    "static/media/1593268123209-laura-chouette-8BIWYVu0vE0-unsplash.jpg": "/static/media/1593268123209-laura-chouette-8BIWYVu0vE0-unsplash.bd6a9a7a.jpg",
+    "static/media/1593268491849-sweetgun-zLPSV-RiT8w-unsplash.jpg": "/static/media/1593268491849-sweetgun-zLPSV-RiT8w-unsplash.57c495d9.jpg",
+    "static/media/Notable-Regular.ttf": "/static/media/Notable-Regular.dc386f0b.ttf",
+    "static/media/Raleway-Regular.ttf": "/static/media/Raleway-Regular.9942588a.ttf",
+    "static/media/brooke-lark-W1B2LpQOBxA-unsplash.jpg": "/static/media/brooke-lark-W1B2LpQOBxA-unsplash.84df5d4d.jpg",
+    "static/media/grocery_store_main_image.jpg": "/static/media/grocery_store_main_image.8d386b64.jpg",
+    "static/media/kristina-tamasauskaite-Xd5DL2tASeE-unsplash.jpg": "/static/media/kristina-tamasauskaite-Xd5DL2tASeE-unsplash.03213348.jpg",
+    "static/media/laura-chouette-8BIWYVu0vE0-unsplash.jpg": "/static/media/laura-chouette-8BIWYVu0vE0-unsplash.bd6a9a7a.jpg",
+    "static/media/pedram-normohamadian-53Z9fiDJhx8-unsplash.jpg": "/static/media/pedram-normohamadian-53Z9fiDJhx8-unsplash.6d27942d.jpg",
+    "static/media/sandra-seitamaa-ew-k5JTl1xw-unsplash.jpg": "/static/media/sandra-seitamaa-ew-k5JTl1xw-unsplash.abf38ad8.jpg",
+    "static/media/screencapture-reactecommercesample-herokuapp-com-shopping-cart-1591959645480.png-1593267350150": "/static/media/screencapture-reactecommercesample-herokuapp-com-shopping-cart-1591959645480.b9e728b6.png-1593267350150",
+    "static/media/sweetgun-zLPSV-RiT8w-unsplash.jpg": "/static/media/sweetgun-zLPSV-RiT8w-unsplash.57c495d9.jpg",
+    "static/media/weston-mackinnon-w-83h_clkvI-unsplash.jpg": "/static/media/weston-mackinnon-w-83h_clkvI-unsplash.17a1d984.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2f624dd.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.83019ee8.chunk.js",
+    "static/css/main.8744c3ec.chunk.css",
+    "static/js/main.a172cd3c.chunk.js"
+  ]
+}
