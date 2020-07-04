@@ -12,6 +12,7 @@ const multer = require("multer");
 const storage = multer.diskStorage({
     destination: function(req,file, cb) {
         cb(null, "react-grocery/src/static/images")
+        cb(null, "build/static/media")
     },
     filename: function(req,file,cb) {
         cb(null, file.originalname)
